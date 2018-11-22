@@ -1,0 +1,3 @@
+C:\Users\Victor Ureta\source\repos\Docker-Api-Test2\Docker-Api-Test2\obj\Debug\netcoreapp2.1\Docker-Api-Test2.csproj.CoreCompileInputs.cache
+C:\Users\Victor Ureta\source\repos\Docker-Api-Test2\Docker-Api-Test2\obj\Debug\netcoreapp2.1\Docker-Api-Test2.AssemblyInfoInputs.cache
+C:\Users\Victor Ureta\source\repos\Docker-Api-Test2\Docker-Api-Test2\obj\Debug\netcoreapp2.1\Docker-Api-Test2.AssemblyInfo.cs
